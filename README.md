@@ -57,7 +57,9 @@ print(cm)
 HEAD:
 
 <img width="982" height="355" alt="image" src="https://github.com/user-attachments/assets/f7cedb41-4f52-4f32-b399-2dbd9ad6237e" />
+
 ACCUURACY AND CONFUSION MATRIX:
+
 
 <img width="571" height="363" alt="image" src="https://github.com/user-attachments/assets/d3ac7301-3dd1-4294-8bd0-e7110c6cc402" />
 
